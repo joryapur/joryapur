@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joryapur
 - 👀 I’m interested in **Web development**
-- 🌱 I’m currently learning **React**
-- 💞️ I’m looking to have my **first experience** within the IT sector
+- 🌱 I’m currently learning **Salesforce development**
+- 💞️ I´m working as a **salesforce developer trainee **
 - 📫 How to reach me :
      - jorgelinayapur1994@gmail.com
      - https://www.linkedin.com/in/jorgelina-yapur/
