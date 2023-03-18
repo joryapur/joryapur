@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joryapur
 - 👀 I’m interested in **Web development**
-- 🌱 I’m currently learning **Salesforce development**
-- 💞️ I´m working as a **salesforce developer trainee **
+- 🌱 I’m currently learning APEX, SOQL, LIGHTNING WEB COMPONENTS and Java
+- 💞️ I´m working as a **Salesforce developer trainee**
 - 📫 How to reach me :
      - jorgelinayapur1994@gmail.com
      - https://www.linkedin.com/in/jorgelina-yapur/
